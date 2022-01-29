@@ -1,0 +1,14 @@
+{
+    "root": true,
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "parserOptions": {
+        "requireConfigFile": false
+    },
+    "extends": [
+        "plugin:nuxt/recommended",
+        "plugin:prettier/recommended"
+    ]
+}
